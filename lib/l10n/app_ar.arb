@@ -1,0 +1,21 @@
+{
+  "apptitle": "قائمة المهام",
+  "tasklist": "المهام",
+  "setting": "الاعدادات",
+  "addnewtask": "اضافة مهام جديدة",
+  "tasktitle": "عنوان المهام",
+  "taskdescription": "وصف المهام",
+  "selectdate": "اختيار التاريخ",
+  "titleerrotmasege": "ادخل عنوان المهام",
+  "descriptionerrotmasege": "ادخل وصف المهام",
+  "language": "اللغة",
+  "languagedispl": "انجليزي",
+  "mode": "النمط",
+  "english": "الاتجليزية",
+  "arabic": "العربية",
+  "modetheme": "ليلي",
+  "delete": "حذف",
+  "edit": "تعديل",
+  "savechange": "حفظ التعديل",
+  "edittask": "تعديل المهام"
+}
